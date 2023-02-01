@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card-section{
+    width: 1024px;
+    margin: auto;
+    height: 100vh;
+}
+
+.grid{
+    display: flex;
+}
+.card-title{
+    color: rgba(40, 24, 24, 0.896);
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 2rem;
+
+}
+
+.tag{
+    font-size: .8rem;
+    color: rgb(243, 21, 106);
+}
+
+.card{
+    width: 300px;
+    padding: 2rem 1rem 2rem 1rem;
+    margin: 1rem;
+    background-color: rgba(45, 179, 237, 0.674);
+    color: #fff; 
+    border-radius: 1rem;
+}
+
+.color1{
+    background-color:#D4F1F4;
+    color: #333;
+}
+.color2{
+    background-color:rgba(237, 111, 195, 0.237);
+    color: #333;
+}
+.color3{
+    background-color:rgba(238, 232, 104, 0.352);
+    color: #333;
+}
+.card img{
+    width: 50%;
+}
+
+.card h1{
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+.card p{
+    font-size: .8rem;
+    line-height: 1.2rem;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.icon{
+
+}
